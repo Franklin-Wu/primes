@@ -1,2 +1,0 @@
-primes_first_6_million.txt filter=lfs diff=lfs merge=lfs -text
-primes_first_10_million.txt filter=lfs diff=lfs merge=lfs -text
